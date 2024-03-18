@@ -104,22 +104,31 @@ print(x_single_prediction)
 
 ![op1](https://github.com/JaisonRaphael/mnist-classification/assets/94165957/4dea8901-5d2e-48f6-83c8-b384874b1472)
 
+<img width="400" alt="Jsn" src="https://github.com/JaisonRaphael/mnist-classification/assets/94165957/ba57562e-3be2-4bd1-a325-c41f86614328">
+
 ![op2](https://github.com/JaisonRaphael/mnist-classification/assets/94165957/1bb060df-05b9-4cbb-8435-abc5932ad8ad)
+
+<img width="400" alt="Jsn" src="https://github.com/JaisonRaphael/mnist-classification/assets/94165957/99fd3a5e-05f0-4ab7-9b5c-6cfce0e6822a">
+
 
 ### Classification Report
 
 ![op3](https://github.com/JaisonRaphael/mnist-classification/assets/94165957/b1030198-bf88-4cad-a126-1720281a91ab)
+<img width="400" alt="Jsn" src="https://github.com/JaisonRaphael/mnist-classification/assets/94165957/18104f5b-5d20-405a-b6ba-b10a3be29ea1">
 
 
 ### Confusion Matrix
 
 ![op4](https://github.com/JaisonRaphael/mnist-classification/assets/94165957/c6824a58-9efa-4a0b-8367-6a5744bb4cfb)
+<img width="400" alt="Jsn" src="https://github.com/JaisonRaphael/mnist-classification/assets/94165957/6c0a8db8-a6b7-4018-9a25-45f133fc9692">
 
 
 ### New Sample Data Prediction
 ![newsampledata](https://github.com/JaisonRaphael/mnist-classification/assets/94165957/10d97ba4-87dc-434a-8a35-f52fa0b1c82b)
+<img width="400" alt="Jsn" src="https://github.com/JaisonRaphael/mnist-classification/assets/94165957/24bc6d06-0fd6-4efa-979e-3caeef5c265e">
 
 ![op65](https://github.com/JaisonRaphael/mnist-classification/assets/94165957/9a0bfc92-59af-408c-bd26-a9af5e8d84fe)
+<img width="400" alt="Jsn" src="https://github.com/JaisonRaphael/mnist-classification/assets/94165957/b7093d46-f4bc-4aaa-b2f8-fd4c5e771c26">
 
 
 ## RESULT
